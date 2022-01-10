@@ -1,0 +1,27 @@
+body {
+	font-size: 1.1em;
+font-family: Ariel, helvetica, sans-serif;
+Background-color: gray;
+text-align: center;
+}
+
+footer {
+	height: 265px;
+	text-align: center;
+}
+
+h1  {
+Text-transform: uppercase;
+Text-align: center;
+color: white;
+line-height: 50px;
+}
+
+h3 {
+Text-transform: lowercase;
+Text-align: center;
+color: blue;
+line-height: 30px;
+}
+
+p {text-align: center;}
