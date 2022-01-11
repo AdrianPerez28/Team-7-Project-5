@@ -1,5 +1,5 @@
 body {
-	font-size: 1.1em;
+font-size: 1.1em;
 font-family: Ariel, helvetica, sans-serif;
 Background-color: gray;
 text-align: center;
@@ -25,3 +25,19 @@ line-height: 30px;
 }
 
 p {text-align: center;}
+
+footer {
+	Background: #ee6e73;
+	height: auto;
+	width: 100vw;
+	font-family: 'Times New Roman', Times, serif;
+	padding-top: 40px;
+	color: Black;
+}
+
+    div.transbox {
+        margin: 30px;
+        background-color: gray;
+        border: 1px solid black;
+        opacity: 0.6;
+    }
