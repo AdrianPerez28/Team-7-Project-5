@@ -15,6 +15,10 @@ text-align: center;
 	margin: 10px;
 }
 
+#Main_menu{
+	justify-content: center;
+	display: flex;
+}
 
 h1  {
 Text-transform: uppercase;
