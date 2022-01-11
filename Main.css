@@ -41,14 +41,14 @@ footer {
 	color: Black;
 }
 
-    div.transbox {
+div.transbox {
         margin: 30px;
         background-color: gray;
         border: 1px solid black;
         opacity: 0.6;
-    }
+}
 
-	footer {
+footer {
 		height: 265px;
 		text-align: center;
 	}
